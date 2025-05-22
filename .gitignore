@@ -1,0 +1,8 @@
+# Ignore all node_modules folders
+node_modules/
+
+# Optional: ignore sensitive or local files
+.env
+.DS_Store
+node_modules/
+.env
